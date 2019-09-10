@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import csv
 
-df = pd.read_csv("election_data.csv")
+df = pd.read_csv('C:\\Users\\JMadd\\Desktop\\03-Python_Homework\\Instructions\\PyPoll\\Resources\\election_data.csv')
 
 print('Election Results')
 print('-----------------------')
