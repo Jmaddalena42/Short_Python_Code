@@ -7,7 +7,7 @@ import csv
 locale.setlocale( locale.LC_ALL, '' )
 'English_United States.1252'
 
-df = pd.read_csv('C:\\Users\\JMadd\\Desktop\\03-Python_Homework\\Instructions\\PyBank\\Resources\\budget_data.csv')
+df = pd.read_csv("Resources\\budget_data.csv")
 
 print('Financial Analysis')
 print('------------------')
